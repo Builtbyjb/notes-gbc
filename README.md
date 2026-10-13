@@ -8,5 +8,6 @@
 **Monday**
 - 13:00 - COMP1238 - Data Mgmnt
 - 16:00 - COMP0000 - Not a real course
+
 **Tuesday**
 etc
